@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/drawable/shape_f5f4ed_ra15_sto.xml" value="0.2365" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/drawable/shape_fddf05_ra25_sto.xml" value="0.2565" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/drawable/shape_ffffff_ra38_sto.xml" value="0.2645" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/layout/activity_concentration.xml" value="0.20607097050021378" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/layout/activity_intro.xml" value="0.258230012825994" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/layout/activity_witmemory.xml" value="0.284737067122702" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/layout/custom_dialog_witmemory.xml" value="0.25" />
+        <entry key="..\:/AndProject/Droi_mini/app/src/main/res/layout/item_witmemory.xml" value="0.284737067122702" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
